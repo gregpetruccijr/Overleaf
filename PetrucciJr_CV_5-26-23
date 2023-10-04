@@ -1,0 +1,337 @@
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\documentclass{resume} % Use the custom resume.cls style
+\pagestyle{plain} 
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\usepackage{hyperref}
+\hypersetup{
+    linkcolor=blue,
+    urlcolor=blue
+}
+\usepackage{fontawesome}
+\usepackage{setspace}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Greg J Petrucci Jr.}
+\address{\hspace{0.25mm} Curriculum Vitae}
+\address{Jan 2023}
+
+\begin{document}
+
+
+\begin{minipage}[t]{7cm}
+\flushleft
+\textsc{\textbf{Home:}}
+
+19 Bank Row St., Apt. 3\\
+Greenfield, MA 01301\\
+gregorypetrucci@gmail.com\\
+(+1)781-771-2485
+\end{minipage}
+\hfill
+\begin{minipage}[t]{7cm}
+\flushright
+\textsc{\textbf{University:}}
+
+30 Eastman Ln., Rm. 162\\
+Amherst, MA 01003\\
+gpetrucci@umass.edu\\
+(+1)413-545-1583
+\end{minipage}
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+\vspace{1mm}
+\begin{rSection}{Education}
+
+% Graduate
+{{2023 - present}} \hspace{30 mm}{{\textbf{Ph.D.}} - Kinesiology}\hfill{University of Massachusetts, Amherst, MA} 
+\item \hspace{5mm} Advisor: {John R. Sirard, Ph.D.} 
+
+
+{{2023}}  \hspace{46mm}{{\textbf{M.S.} - Kinesiology}\hfill{University of Massachusetts, Amherst, MA} 
+\item \hspace{5mm} {{Advisor: {John R. Sirard, Ph.D.}} \hfill {Committee Member: {John Staudenmayer, Ph.D.}}
+\item \hspace{6mm}{{Thesis: \href{https://scholarworks.umass.edu/cgi/preview.cgi?article=2327&context=masters_theses_2}{Methods to Estimate Free-Living Moderate-to-Vigorous Physical Activity from an \newline \hspace*{17mm} ActiGraph Accelerometer} }} 
+
+\vspace{1mm}
+{{2017}} \hspace{46mm}{{\textbf{B.S.}} - Kinesiology}\hfill{University of Massachusetts, Amherst, MA} 
+\item \hspace{6mm}{Summa Cum Laude \& Honors with Greatest Distinction}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Publications
+\begin{rSection}{Publications}
+
+\underline{Refereed publications:}
+
+\begin{enumerate}
+\item{Remillard, N., Mulvey, M., \textbf{Petrucci Jr, G.J.} \& Sirard, J.R. (2022). Validation of accelerometer-based estimations of energy expenditure during high-intensity interval training. \emph{American Journal of Undergraduate Research, 19}(1), 31-39}.
+
+\item{Potter, K., Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Rajala, C., Linder, D.E. \& Balzer, L. (2021). Examining the contribution of dog walking to total daily physical activity among dogs and their owners. \emph{Journal for the Measurement of Physical Behaviour, 4}(1), 97-101}.
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J.  \& Sirard, J.R. (2019).} Estimating sedentary time from a hip- and wrist-worn accelerometer. \emph{Med Sci Sports Exerc., 52}, (1), 225-232.
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2020).} A novel video-based direct system for assessing physical activity and sedentary behavior in children and young adults. \emph{Journal for the Measurement of Physical Behaviour, 3} (1), 50-57.
+
+\item \textbf{Petrucci Jr, G.J.}, Masteller, B.R., Cox, M.F., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2018). Sensitivity of the misfit shine\textsuperscript{TM} to detect changes in laboratory-based and free-living physical activity. \emph{Journal for the Measurement of Physical Behaviour, 1}(1), 18-25.
+\end{enumerate}
+
+\underline{Book chapters:}
+
+\begin{enumerate}
+\item Sirard, J.R. \& \textbf{Petrucci Jr, G.J.} (2019). Assessment of physical activity and sedentary behaviors. In: \emph{Physical Activity and Public Health Practice: A Guide for Effective Interventions}. Springer Publishing Company, New York, NY.
+\end{enumerate}
+
+%\underline{Publications under review:}
+%\begin{enumerate}
+%\end{enumerate}
+\newpage
+\underline{Publications in preparation:}
+
+\begin{enumerate}
+
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Freedson, P.S., Staudenmayer, J.  \& Sirard, J.R. (2023).} A free-living investigation of methods to estimate moderate-to-vigorous physical activity from an actigraph accelerometer. \emph{Med Sci Sports Exerc.}
+\end{enumerate}
+
+
+\underline{Conference proceedings with published abstracts:}
+
+%{\textsuperscript{*} \emph{denotes currently under review}}
+
+\begin{enumerate}
+\item{\textbf{Petrucci Jr, G.J.}, Shook, R.P. \& Sirard, J.R. (2023). Estimating energy expenditure in free-living adolescents: How many days are enough? \emph{American College of Sports Medicine Annual Meeting}. Jun 2023. Denver, CO.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte R.T., Cox M.F., Freedson P.S., Staudenmayer J.W. \& Sirard J.R. (2020). A novel method to estimate free-living physical behaviors from a wrist-worn actiGraph accelerometer. \emph{American College of Sports Medicine Annual Meeting}. Jun 2020. Virtual Meeting.}
+
+\item{Remillard, N., \textbf{Petrucci Jr, G.J.} \& Sirard, J.R. (2020). Estimating energy expenditure during high intensity interval training. \emph{American College of Sports Medicine Annual Meeting}. Jun 2020. Virtual Meeting.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2019). A free-living investigation of methods to estimate moderate-to-vigorous physical activity from an actigraph accelerometer. \emph{International Conference on Ambulatory Monitoring of Physical Activity and Movement}. Jun 2019. Maastricht, the Netherlands.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Rajala, C., Saleeba, C. \& Potter, K. (2019). Examining the relationship between objectively measured human and dog activity. \emph{International Conference on Ambulatory Monitoring of Physical Activity and Movement}. Jun 2019. Maastricht, the Netherlands.}
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2019). End of an epoch? Free-living classification within sojourns using a wrist-worn accelerometer. \emph{International Conference on Ambulatory Monitoring of Physical Activity and Movement}. Jun 2019. Maastricht, the Netherlands.}
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2019). Insights on  free-living behavior from a novel direct observation coding system. \emph{International Conference on Ambulatory Monitoring of Physical Activity and Movement}. Jun 2019. Maastricht, the Netherlands.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2019). Estimating free-living physical activity using a wrist-worn accelerometer: can it be done? \emph{American College of Sports Medicine Annual Meeting}. Jun 2019. Orlando, FL.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2019). Contributions to free-living accelerometer calibration: a novel direct observation system. \emph{American College of Sports Medicine Annual Meeting}. Jun 2019. Orlando, FL.}
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2019). Insights on free-living sedentary behavior estimates using a hip- or wrist-worn accelerometer. \emph{American College of Sports Medicine Annual Meeting}. Jun 2019. Orlando, FL.}
+
+\item{Rajala, C., Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Saleeba, C. \& Becofsky Potter, K.  (2019). Dog walking as a percentage of owners' total physical activity and measures of moderate-to-vigorious activity levels. \emph{American College of Sports Medicine Annual Meeting}. Jun 2019. Orlando, FL.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2018). Sensitivity of a consumer activity tracker to detect changes in lab-based and free-living activity settings. \emph{American College of Sports Medicine Annual Meeting}. Jun 2018. Minneapolis, MN.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.},  Masteller, B.R. \& Sirard, J.R. (2018). The development and testing of a direct observation protocol for children's free-living activity. \emph{American College of Sports Medicine Annual Meeting}. Jun 2018. Minneapolis, MN.}
+
+\item{Jai Kumar, J., \textbf{Petrucci Jr, G.J.}, Masteller, B.R., Cox, M.F., Staudenmayer, J., Sirard, J.R. \& Freedson, P.S. (2017). Investigation of the relationship between user height and steps measured by a consumer activity tracker. \emph{International Conference on Ambulatory Monitoring of Physical Activity and Movement}. Jun 2017. Bethesda, MD.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Masteller, B.R., Cox, M.F., Staudenmayer, J., Sirard, J.R \& Freedson,
+P.S. (2017). A Consumer activity tracker is sensitive to changes in steps during simulated free-living. \emph{American College of Sports Medicine Annual Meeting}. Jun 2017. Denver, CO.}
+
+\item{Masteller, B.R., Larson, J., Cox, M.F., \textbf{Petrucci Jr, G.J.}, Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2017). Comparison of step estimates between a consumer activity tracker and research accelerometer on the dominant and non-dominant wrist. \emph{American College of Sports Medicine Annual Meeting}. Jun 2017. Denver, CO.}
+
+\item{ Cox, M.F., Slate-Romano, J., Vercollone, H., Jacobson, D., \textbf{Petrucci Jr, G.J.}, Masteller, B.R. \& Sirard, J.R. (2017). Testing a novel direct observation method for children's free play activity \emph{American College of Sports Medicine Annual Meeting}. Jun 2017. Denver, CO.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Hickey, A., Mendoza, A. \& Freedson, P.S. (2016). Validation of the cybex arctrainer\textsuperscript{TM} for prediction of energy expenditure. \emph{American College of Sports Medicine Annual Meeting}. Jun 2016. Boston, MA.}
+
+%\textsuperscript{*} \emph{denotes currently under review}
+\end{enumerate}
+
+\underline{Other conference presentations \& publications:}
+
+\begin{enumerate}
+\item{Remillard, N.M., \textbf{Petrucci Jr, G.J.} \& Sirard, J.R. (2019). Using accelerometers to estimate energy expenditure during high intensity interval training. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Nov 2019. Providence, RI.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R.
+(2019). Estimating free-living physical activity using a wrist-worn accelerometer. \emph{School of Public Health and Health Sciences Research Day}. Apr 2019. Amherst, MA.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2019). Free-living accelerometer calibration: a novel direct observation system. \emph{School of Public Health and Health Sciences Research Day}. Apr 2019. Amherst, MA.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2018). Estimating free-living physical activity using a wrist-worn accelerometer: can it be done? \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2018. Providence, RI.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Masteller, B.R., Staudenmayer, J., Freedson, P.S. \& Sirard, J.R. (2018). Contributions to free-living accelerometer calibration: a novel direct observation system. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2018. Providence, RI.}
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2018). An evaluation of actigraph hip and wrist methods to estimate sedentary behavior under free-living conditions. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2018. Providence, RI.}
+\newpage 
+\item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2018). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in lab-based and free-living activity settings. \emph{UConn mHealth and Social Media Conference}. May 2018. Storrs, CT.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2018). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in lab-based and free-living activity settings. \emph{Industry Advisory Board Meeting for the Center for Personalized Health Monitoring}. May 2018. Amherst, MA.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2018). Investigation of machine learning methods to estimate sedentary behavior in free-living environments from an accelerometer. \emph{New England Statistics Symposium}. Apr. 2018. Amherst, MA.}
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Staudenmayer, J. \& Sirard, J.R. (2018). Non-exercise estimation of cardiorespiratory fitness using NHANES 2003-2004 accelerometer data. \emph{New England Statistics Symposium}. Apr 2018. Amherst, MA.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Marcotte, R.T., Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2018). Investigation of actigraph hip methods to estimate sedentary behavior in free-living environments. \emph{School of Public Health and Health Sciences Research Day}. Apr 2018. Amherst, MA.}
+
+
+\item{Marcotte, R.T., \textbf{Petrucci Jr, G.J.}, Cox, M.F., Freedson, P.S., Staudenmayer, J. \& Sirard, J.R. (2018). An evaluation of actigraph wrist methods to estimate sedentary behavior in the free-living environment. \emph{School of Public Health and Health Sciences Research Day}. Apr 2018. Amherst, MA.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.},  Masteller, B.R. \& Sirard, J.R. (2018). The development and testing of a direct observation protocol for children's free-living activity. \emph{School of Public Health and Health Sciences Research Day}. Apr 2018. Amherst, MA.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2017). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in laboratory and free-living physical activity. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2017. Providence, RI.}
+
+\item{Cox, M.F., \textbf{Petrucci Jr, G.J.},  Masteller, B.R. \& Sirard, J.R. (2017). The development and testing of a direct observation protocol for children's free-living activity. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2017. Providence, RI.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2017). Sensitivity of misfit shine\textsuperscript{TM} to detect changes in physical activity. \emph{UMass Medical mHealth and Social Media Conference}. May 2017. Worcester, MA.}
+
+\item{\textbf{Petrucci Jr, G.J.}, Hickey, A., Mendoza, A. \& Freedson, P.S. (2016). Validation of the cybex arctrainer\textsuperscript{TM} for prediction of energy expenditure. \emph{New England Chapter of the American College of Sports Medicine Annual Fall Meeting}. Oct 2016. Providence, RI.}
+
+
+
+\end{enumerate}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Awards and Honors}
+{Oct 2018. Finalist for the Master's Student Investigator Award. \newline\emph{New England Chapter of the American College of Sports Medicine}.}
+
+\item Feb 2018. Finalist for Distinguished Teaching Award. \newline\emph{University of Massachusetts}.
+
+\item {Aug 2017. Mark Connolly Master's Student Scholarship.} \newline\emph{New England Chapter of the American College of Sports Medicine}. \$750.
+
+\item Dec 2016. Nominated for 21\textsuperscript{st} Century Leaders Award. \newline\emph{University of Massachusetts}.
+
+\item Oct 2016. \href{https://www.umass.edu/honors/news/chc-students-excel-2016-2017-rising-researchers}{Rising Researcher Award}. \newline\emph{University of Massachusetts}. 
+
+\item Jun 2016. Charles J. Hoff Honors Scholarship. \newline\emph{Commonwealth Honors College}. \$4000.
+
+\item Apr 2016. William F. Field Alumni Scholar. \newline\emph{University of Massachusetts Alumni Association}. \$1000.
+
+
+\end{rSection}
+
+%	GRANTS AND FELLOWSHIPS SECTION
+\begin{rSection}{Fellowships and Grants}
+\underline{Funded fellowships:}
+\item Feb 2023. Department of Kinesiology Non-Working Fellowship. \newline\emph{Department of Kinesiology, University of Massachusetts}. \$3,102. 
+
+\underline{Funded grants:}
+\item Spt 2019. Graduate Student Travel Grant. \newline\emph{Department of Kinesiology, University of Massachusetts}. \$500.
+\item Apr 2016. Submission title: Validation of Youth-Orientated Activity Trackers in Semi-Structured \newline Free Play. \newline\emph{Commonwealth Honors College}. \$1000. 
+
+
+\underline{Unfunded grants:}
+\item Mar 2019. Center for Research on Families Travel Grant. \newline\emph{University of Massachusetts}. \$300.
+\item Feb 2019. Michael L. Pollock Student Scholarship. \newline\emph{American College of Sports Medicine}. \$200.
+\item Spt 2017. Graduate Student Travel Grant. \newline\emph{Department of Kinesiology, University of Massachusetts}. \$500.
+\item Dec 2016. Priscilla Clarkson Travel Grant. \newline\emph{American College of Sports Medicine}. \$1000.
+\item Dec 2015. Priscilla Clarkson Travel Grant. \newline\emph{American College of Sports Medicine}. \$1000.
+\end{rSection}
+
+
+% %----------------------------------------------------------------------------------------
+% %	ORAL PRESENT SECTION
+% %----------------------------------------------------------------------------------------
+% \begin{rSection}{Conference and Meeting Activity}
+% \underline{Podium presentations:}
+% \item{\textbf{Petrucci Jr, G.J.}, Freedson, P.S., Masteller, B.R., Cox, M.F., Staudenmayer, J. \& Sirard, J.R. (2018). Sensitivity of a consumer activity tracker to detect changes in lab-based and free-living activity settings. \emph{American College of Sports Medicine Annual Meeting}. Jun 2018. Minneapolis, MN.}
+% \item \textbf{Petrucci Jr, G.J.} Sensitivity of the misfit shine to detect changes in physical activity (2017). \emph{Statewide Undergraduate Research Conference}. Apr, 2017. Amherst, MA.
+% \item \textbf{Petrucci Jr, G.J.} \& Freedson, P.S. (2016). New frontiers in wearable \& personalized health monitoring; The ‘IALS vision’ as seen through the undergraduate lens. \emph{Institute of Applied Life Sciences Grand Opening}. Oct 2016. Amherst, MA.
+% \end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	TEACHING SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Teaching Experience}
+\underline{Instructor of record:}
+\item May-Jly 2023. KIN 470– Exercise Physiology. \newline \emph{University of Massachusetts}.
+
+\underline{Graduate teaching assistant:}
+\item Spt 2022-May 2023. KIN 394AI– Applying Kin Concepts to Real-World Health Challenges. \newline \emph{University of Massachusetts}.
+\item Spt-Dec 2020. KIN 272– Anatomy and Physiology II.\newline \emph{University of Massachusetts}.
+\item Spt 2018-May 2020. KIN 100– Introduction to Kinesiology. \newline\emph{University of Massachusetts}.
+\item Spt-Dec 2017. KIN 355– Scientific Writing in Kinesiology. \newline\emph{University of Massachusetts}.
+
+
+\underline{Advising and mentoring:}
+\item Spt 2022-May 2023. \href{https://www.linkedin.com/in/loukas-pedone-9783b7239/}{Loukas Pedone}- Commonwealth Honors College Capstone Thesis. \newline \emph{University of Massachusetts}.
+
+\item Spt 2019-Dec 2020. \href{https://www.linkedin.com/in/marisa-mulvey-0824191a7/} 
+ {Marisa Mulvey}- Commonwealth Honors College Capstone Thesis. \newline \emph{University of Massachusetts}. 
+
+\item Spt 2017-May 2019. \href{https://www.linkedin.com/in/nicholasremillard98/}{Nicholas Remillard}- Commonwealth Honors College Capstone Thesis. \newline \emph{University of Massachusetts}.
+
+\underline{Other teaching experience:}
+\item Aug 2018. Kinesiology R Programming Workshop. \newline\emph{University of Massachusetts}.
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	SERVICE TO PROFESSION SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Professional Service }
+\underline{Manuscript reviewer:}
+
+\begin{tabular}{l}
+\emph{Journal for the Measurement of Physical Behaviour}\\
+\emph{Journal of Science and Medicine in Sport}\\
+\emph{Measurement in Physical Education and Exercise Science}\\
+\end{tabular}
+
+\underline{Other service to profession:}
+\item Feb-Oct 2023. Chair of Membership Committee. \newline \emph{New England Chapter of the American College of Sports Medicine}.
+\item Jan 2018-May 2020. Social Media Chairperson. \newline \emph{International Society for the Measurement of Physical Behaviour}.
+\item Aug-Dec 2017. Peer Mentor- \href{https://www.linkedin.com/in/alec-shostek/}{Alec Shostek}. \newline \emph{New England Chapter of the American College of Sports Medicine}.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	SERVICE TO UNIVERSITY SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{University Service}
+Spt 2019-present. Department Steward- {Graduate Employee Organization.} \newline \emph{University of Massachusetts}.
+\item {Apr 2019. VIP Consultant- {Five College DataFest.} \newline \emph{University of Massachusetts}.}
+\item Spt 2018. Panelist- New Graduate Student Orientation Panel: Advice from Successful TAs in the Social and Behavioral Sciences, Management, and Public Health. \newline \emph{University of Massachusetts}. 
+\item May 2018-May 2020. Committee Member- {Kinesiology Graduate Student Organization.} \newline \emph{University of Massachusetts}.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AFFILIATIONS SECTION
+%----------------------------------------------------------------------------------------
+\newpage
+\begin{rSection}{Professional Affiliations}
+
+\begin{tabular}{l r}
+Mar 2019 & \emph{Society of Behavioral Medicine}\\
+Spt 2018 & \emph{New England Statistics Society}\\
+Spt 2018 & \emph{Boston Chapter of the American Statistical Association}\\
+Spt 2018 & \emph{American Statistical Association}\\
+Mar 2018 & \emph{American Association for the Advancement of Science}\\
+Jun 2017 & \emph{International Society for the Measurement of Physical Behavior}\\
+Spt 2013 & \emph{New England Chapter of the American College of Sports Medicine}\\
+Spt 2013 & \emph{American College of Sports Medicine}\\
+\end{tabular}
+
+\end{rSection}
+
+
+
+
+
+
+\end{document}
